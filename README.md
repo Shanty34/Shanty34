@@ -14,7 +14,7 @@ I'm a Computer Science undergraduate student with a passion for Programming and 
 
 Here are some of the projects you'll find in my repositories:
 
-- [QR Attendance](Link to Project 1): Brief description of the project.
+- [QR Attendance](https://github.com/Shanty34/QR-Attendance-System): "QR Attendance System," which we developed during the "Live The Code 2.0" Hackathon!
 - [Password Manager](https://github.com/Shanty34/Password-Manger): Very Basic password manager using Python with Encrypted SQL database.
 
 Feel free to explore and provide feedback on any project that catches your eye!
