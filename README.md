@@ -7,7 +7,6 @@ I'm a Computer Science undergraduate student with a passion for Programming and 
 - 🎓 Currently pursuing a Bachelor's degree in Computer Science & Engineering.
 - 💻 Proficient in Python and always excited to learn more.
 - 🧠 Enthusiastic about Data Structures & Algorithms and their practical applications.
-- 🌐 Love exploring the world of web development.
 - 📚 Constantly learning and improving my coding skills.
 
 ## Projects
