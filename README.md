@@ -15,9 +15,7 @@ I'm a Computer Science undergraduate student with a passion for Programming and 
 Here are some of the projects you'll find in my repositories:
 
 - [QR Attendance](Link to Project 1): Brief description of the project.
-- [Password Manager](Link to Project 2): Brief description of the project.
-- [Project Name 3](Link to Project 3): Brief description of the project.
-- ...
+- [Password Manager](https://github.com/Shanty34/Password-Manger): Very Basic password manager using Python with Encrypted SQL database.
 
 Feel free to explore and provide feedback on any project that catches your eye!
 
