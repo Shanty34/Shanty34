@@ -14,8 +14,8 @@ I'm a Computer Science undergraduate student with a passion for Programming and 
 
 Here are some of the projects you'll find in my repositories:
 
-- [Project Name 1](Link to Project 1): Brief description of the project.
-- [Project Name 2](Link to Project 2): Brief description of the project.
+- [QR Attendance](Link to Project 1): Brief description of the project.
+- [Password Manager](Link to Project 2): Brief description of the project.
 - [Project Name 3](Link to Project 3): Brief description of the project.
 - ...
 
@@ -24,7 +24,6 @@ Feel free to explore and provide feedback on any project that catches your eye!
 ## Contact
 
 - 📧 Email: [pantshantanu0@email.com](mailto:panshantanu0@email.com)
--
 
 <!---
 Shanty34/Shanty34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
