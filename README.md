@@ -1,4 +1,4 @@
-# Hi there, I'm Shantanu Pant! 👋
+# Hi there, I'm Shantanu Pant!
 
 I'm a Computer Science undergraduate student with a passion for Programming and Technology. Welcome to my GitHub profile! Here, you'll find a collection of projects and code that reflect my interests and skills.
 
